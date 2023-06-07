@@ -1,0 +1,10 @@
+requests
+openai
+google-cloud-vision
+google-auth
+google-auth-httplib2
+google-api-python-client
+urllib3
+Flask
+sqlalchemy==1.4.25
+pymysql==1.0.2
